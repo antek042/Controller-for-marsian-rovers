@@ -24,10 +24,10 @@ PCB
 <img src="assets/pcb.png" alt="Schematic" width="350"/>
 
 ## Firmware Overview
-This hackpad uses [KMK]([https://github.com/KMKfw/kmk_firmware]) firmware for everything. 
+This hackpad uses [KMK](https://github.com/KMKfw/kmk_firmware) firmware for everything. 
   - the rotary encoders acts like arrows in keyboard
   - 4 keys for now is only function keys for steering rover
   - the OLED in the future will present you some stats from rover!!!
 
 ## Extra stuff
-[Click here to get free Claude AI subscription for year([https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1])
+[Click here to get a free Claude AI subscription for a year](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
