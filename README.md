@@ -29,5 +29,17 @@ This hackpad uses [KMK](https://github.com/KMKfw/kmk_firmware) firmware for ever
   - 4 keys for now is only function keys for steering rover
   - the OLED in the future will present you some stats from rover!!!
 
+## BOM
+Here should be everything you need to make this hackpad
+
+- 4x Cherry MX Switches
+- 4x DSA Keycaps
+- 8x M2×4 mm
+- 4x 1N4148 DO-35 Diodes.
+- 1x 0.91" 128x32 OLED Display
+- 2x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case (2 printed parts)
+
 ## Extra stuff
 [Click here to get a free Claude AI subscription for a year](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
