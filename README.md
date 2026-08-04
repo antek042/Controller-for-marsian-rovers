@@ -15,7 +15,7 @@ Everything fits together using 8 M3 Bolts. 4 for the case, 4 for the PCB. It was
 <img src=assets/case.png alt="Schematic" width="500"/>
 
 ## PCB
-The controller PCB was made in KiCad ( It was my first time ). The hardest thing it this was to add 3D models :c 
+The controller PCB was made in KiCad.
 
 Schematic
 <img src="assets/schematics.png" alt="Schematic" width="350"/>
@@ -34,7 +34,9 @@ Here should be everything you need to make this hackpad
 
 - 4x Cherry MX Switches
 - 4x DSA Keycaps
-- 8x M2×4 mm
+- 4x M3×16 mm
+- 2x M3x5 mm
+- 6x M3x5x4 Heatset inserts
 - 4x 1N4148 DO-35 Diodes.
 - 1x 0.91" 128x32 OLED Display
 - 2x EC11 Rotary Encoder
