@@ -10,7 +10,7 @@ It will be used soon in my mars rover project as a control pad!
   - 4 keys for some future functions of rover
 
 ## CAD Model
-Everything fits together using 8 M3 Bolts. 4 for the case, 4 for the PCB. It was made in Fusion360.
+Everything fits together using 6 M3 Bolts. 4 for the case, 2 for the PCB. It was made in Fusion360.
 
 <img src=assets/case.png alt="Schematic" width="500"/>
 
