@@ -34,7 +34,7 @@ Here should be everything you need to make this hackpad
 
 - 4x Cherry MX Switches
 - 4x DSA Keycaps
-- 4x M3×16 mm
+- 4x M3×10 mm
 - 2x M3x5 mm
 - 6x M3x5x4 Heatset inserts
 - 4x 1N4148 DO-35 Diodes.
